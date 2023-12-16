@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sean! aka Wytchwulf.</h1>
 <h3 align="center">Starting out on my CS journey</h3>
 
-- 🔭 I’m currently working on [Wendler](https://github.com/Wytchwulf/Wendlr)
+- 🔭 I’m currently working on [Wendlr](https://github.com/Wytchwulf/Wendlr)
 
 - 🌱 I’m currently learning **CS50x, CS50p**
 
