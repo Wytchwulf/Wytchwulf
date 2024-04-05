@@ -1,13 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sean! aka Wytchwulf.</h1>
-<h3 align="center">Starting out on my CS journey</h3>
+# Hello, I'm Sean Murdoch aka Wytchwulf! 👋
 
-- 🔭 I’m currently working on [Wendlr](https://github.com/Wytchwulf/Wendlr)
+## 👨‍💻 Security Systems Operator
 
-- 🌱 I’m currently learning **CS50x, CS50p**
+I am a **Security Systems Operator** with a keen interest in **cybersecurity** and **internet privacy**. I love to take on challenges and constantly set goals for myself, so I have something to strive toward. I'm not comfortable with settling, and I'm always looking for an opportunity to do better and make progress.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🛠 Skills and Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Programming Languages:** Python, C, Javascript and I am looking forward to picking up some Rust
+- **Tools & Technologies:** Docker, Linux, SQL, Kali
+- **Frameworks & Platforms:** TryHackMe
+
+### 🔭 I’m currently working on
+
+- Expanding my skills in penetration testing through [TryHackMe](https://tryhackme.com/p/Wytchwulf).
+- Developing a home server project to repurpose an old gaming PC for Artificial Intelligence tools and cybersecurity projects.
+- Planning to run a Tor relay to support internet privacy in light of recent global events.
+
+### 🌱 I’m currently learning
+
+- Advanced penetration testing techniques to improve my skills in cybersecurity.
+- Exploring the capabilities of Artificial Intelligence tools in cybersecurity applications.
+
+### 💬 About Me
+
+I'm a **Linux enthusiast** who loves building, learning, breaking, and reconstructing anything tech-related. Puzzles intrigue me, and I find joy in using technology to solve complex problems. My journey has recently focused on deepening my understanding of cybersecurity and internet privacy, reflecting my desire to contribute positively to the tech world.
+
+### 📫 How to reach me
+
+- **LinkedIn:** [Sean Murdoch](https://www.linkedin.com/in/sean-murdoch-914398236)
+
+---
+
+⚡ Fun fact: I enjoy pushing the limits of old technology, proving that even a 20-year-old gaming PC can still have a place in today's tech landscape.
+
