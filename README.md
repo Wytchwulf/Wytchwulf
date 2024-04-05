@@ -31,5 +31,5 @@ I'm a **Linux enthusiast** who loves building, learning, breaking, and reconstru
 
 ---
 
-⚡ Fun fact: I enjoy pushing the limits of old technology, proving that even a 20-year-old gaming PC can still have a place in today's tech landscape.
+⚡ Fun fact: Roman soldiers used passwords to distinguish friend from foe.
 
