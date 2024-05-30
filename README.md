@@ -8,13 +8,14 @@ I am a **Security Systems Operator** with a keen interest in **cybersecurity** a
 
 - **Programming Languages:** Python, C, Javascript and I am looking forward to picking up some Rust
 - **Tools & Technologies:** Docker, Linux, SQL, Kali
-- **Frameworks & Platforms:** TryHackMe
+- **Frameworks & Platforms:** TryHackMe, CodeWars
 
 ### 🔭 I’m currently working on
 
 - Expanding my skills in penetration testing through [TryHackMe](https://tryhackme.com/p/Wytchwulf).
-- Developing a home server project to repurpose an old gaming PC for Artificial Intelligence tools and cybersecurity projects.
-- Planning to run a Tor relay to support internet privacy in light of recent global events.
+- Taking part in daily Katas for [CodeWars](https://www.codewars.com/)
+- Improving my Linux skills with [OverTheWire](https://overthewire.org/)
+- Working on reducing friction for end users in setting up [Tor](https://www.torproject.org/) with my automation project [Torminal](https://github.com/Wytchwulf/Torminal).
 
 ### 🌱 I’m currently learning
 
@@ -30,6 +31,4 @@ I'm a **Linux enthusiast** who loves building, learning, breaking, and reconstru
 - **LinkedIn:** [Sean Murdoch](https://www.linkedin.com/in/sean-murdoch-914398236)
 
 ---
-
-⚡ Fun fact: Roman soldiers used passwords to distinguish friend from foe.
 
