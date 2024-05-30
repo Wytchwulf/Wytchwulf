@@ -31,4 +31,7 @@ I'm a **Linux enthusiast** who loves building, learning, breaking, and reconstru
 - **LinkedIn:** [Sean Murdoch](https://www.linkedin.com/in/sean-murdoch-914398236)
 
 ---
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Wytchwulf.png)
+
+![CodeWars](https://www.codewars.com/users/Wytchwulf/badges/large)
 
