@@ -33,7 +33,7 @@ I'm a **Linux enthusiast** who loves building, learning, breaking, and reconstru
 - **LinkedIn:** [Sean Murdoch](https://www.linkedin.com/in/sean-murdoch-914398236)
 
 ---
-![HackTheBox](https://app.hackthebox.com/profile/1903508)
+![image](https://github.com/user-attachments/assets/71f3bc80-a509-4cfd-8331-7d7c3cd9edbc)
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Wytchwulf.png) 
 
